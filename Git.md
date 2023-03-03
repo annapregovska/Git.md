@@ -46,6 +46,8 @@ This is from vetka4
 I am making changes in Vetka3
 
 This changes done in Vetka4
+### Learning these commands and their usage will help you effectively manage your Git repositories.
+
 
 
 

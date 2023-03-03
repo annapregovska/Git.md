@@ -37,13 +37,15 @@ One of the most useful commands in Git is git status. This command shows the cur
 * **git log**: displays the commit history
 
 * **git diff**: shows differences between files or commits
+This is from vetka4
 
 # Conclusion
 
 ## Knowing these commands and how to use them effectively can greatly improve your productivity and efficiency when working with Git.
 
+I am making changes in Vetka3
 
-
+This changes done in Vetka4
 
 
 
